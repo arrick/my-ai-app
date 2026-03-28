@@ -1,0 +1,7 @@
+{
+  "name": "Word Flow",
+  "description": "A voice-first dictation game that challenges users to name as many items as possible in a category within 60 seconds.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
